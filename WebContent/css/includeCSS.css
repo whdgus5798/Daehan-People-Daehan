@@ -1,0 +1,108 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: url('../img/background.jpg') no-repeat center center fixed;
+	/* 배경이미지 출처: https://pixabay.com/ko/photos/%EB%B6%81%EC%B4%8C-%ED%95%9C%EC%98%A5-%EC%A0%84%ED%86%B5-korea-3905234/ */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+header {
+	margin-bottom: 30px;
+}
+.brand {
+	
+}
+.home {
+	border-radius: 6px;
+	width: 400px;
+	display:block;
+	margin-top:60px;
+	margin-bottom: 60px;
+	font-weight:bold;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+.navigator {
+	padding: 0px;
+	margin: 0px;
+	border-top: 2px solid black;
+	display: flex;
+	background: rgba(255, 255, 255, 0.7);
+	border-bottom: 2px solid black;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left:10%;
+	padding-right:10%;
+	box-sizing: border-box;
+}
+.navigator li {
+	font-weight: bold;
+	font-size: 25px;
+	list-style: none;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left:auto;
+	margin-right: auto;
+}
+a:link{
+	text-decoration: none;
+	color: black;
+}
+a:visited {
+	text-dacoration: none;
+	color: black;
+}
+a:hover {
+	text-decoration: none;
+	color: gray;
+}
+a:active {
+	
+}
+
+footer {
+	background: rgba(255, 255, 255, 0.7);
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	margin-top: 30px;
+	padding-left:10%;
+	padding-right:10%;
+}
+.container {
+	display: flex;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.col-1 {
+	font-size: 20px;
+	width: 45%;
+	box-sizing: border-box;
+	border-right: 1px solid black;
+}
+.col-2 {
+	width: 9%;
+	padding: 28px 0px;
+}
+.row-2-1 {
+	font-size: 20px;
+}
+.col-3 {
+	width: 45%;
+	padding: 16px 0px;
+}
+.row-3-1 img {
+	width: 130px;
+	height: 50px;
+	padding-top: auto;
+	padding-bottom: auto;
+}
+.row-3-2 img {
+	width: 180px;
+	height: 50px;
+	padding-top: auto;
+	padding-bottom: auto;
+}

@@ -1,0 +1,136 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+.routeContainer {
+	background: rgba(255,255,255,0.7);
+	padding: 4% 18%;
+	display: block;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	padding-bottom: 8%;
+}
+.routeHeader {
+	display: flex;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 3% 0px;
+	border-bottom: 2px solid black;
+}
+.title {
+	text-align: left;
+	width: 50%
+}
+.orderBy {
+	text-position: right;
+	width: 50%;
+}
+.routeContent {
+}
+.routeContent table {
+	width: 100%;
+}
+.routeContent table th {
+	font-size: 17px;
+	padding: 2% 0px;
+	border-bottom: 2px solid black;
+}
+.routeContent table th:nth-type-of(2) {
+}
+.routeData {
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	padding: 3% 0px;
+}
+.routeData td {
+	padding: 3% 0px;
+	border-bottom: 1px solid black;
+}
+.routeSubContainer {
+	background: rgba(255,255,255,0.7);
+	padding: 4% 15%;
+	display: block;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	padding-bottom: 8%;
+}
+.routeSubHeader {
+	font-size: 25px;
+	font-weight: bold;
+	border-bottom: 2px solid black;
+}
+.subTitle {
+	font-size: 30px;
+	font-weight: bold;
+	padding-top:3%;
+	padding-bottom: 3%;
+	border-bottom: 2px solid black;
+}
+.tag {
+	display:block;
+	padding: 3% 0px;;
+	background: rgba(255,255,255,0.5);
+}
+.tag span {
+	padding: 0px 3%;
+}
+.contentTitle {
+	padding-top: 3%;
+	padding-bottom: 1%;
+	padding-left: 1%;
+	font-size: 20px;
+	font-weight: bold;
+	border-bottom: 1px solid black;
+	background: rgba(255,255,255,0.5);
+}
+.content {
+	font-size: 18px;
+	font-weight: bold;
+	padding-left:1%;
+	background: rgba(255,255,255,0.5);
+	padding-top: 1%;
+	padding-bottom: 3%;
+	border-bottom: 2px solid black;
+}
+.map {
+	display: block;
+	padding: 3% 10px;;
+	box-sizing: border-box;
+	border-bottom: 2px solid black;
+	background: rgba(255, 255, 255, 0.5);
+}
+.addLocation {
+	background: rgba(255, 255, 255, 0.5);
+	border-bottom: 2px solid black;
+}
+.addTitle {
+	font-size: 20px;
+	font-weigth: bold;
+	padding: 1% 0px;
+	padding-left: 1%;
+	border-bottom: 1px solid black;
+}
+.addContent {
+	font-size: 18px;
+	font-weight: bold;
+	display: flex;
+	padding: 2% 0px;
+}
+.add1 {
+	margin-left: auto;
+	margin-right: auto;
+}
+.add2 {
+	margin-left: auto;
+	margin-right: auto;
+}
+.add3 {
+	margin-left: auto;
+	margin-right: auto;
+}
+.backSpace {
+	font-size: 20px;
+	font-weight: bold;
+}

@@ -1,0 +1,97 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+.popularContainer {
+	background: rgba(255,255,255,0.7);
+	padding: 2% 0px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	}
+.title {
+	font-size: 27px;
+	font-weight: bold;
+	padding: 2% 0px;
+	display: block;
+}
+.table {
+	padding: 2% 0px;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	margin-bottm: 2%;	
+}
+.images {
+}
+.subTitle {
+	font-size: 20px;
+	font-weight: bold;
+}
+.popularSubContainer {
+	background: rgba(255,255,255,0.7);
+	margin:4% 0px;
+	padding: 2% 0px;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	padding: 4% 10%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+.popularName {
+	font-size: 30px;
+	padding: 1% 0px;
+}
+.subtitle {
+	font-size: 25px;
+	padding: 1% 0px;
+}
+.location {
+	font-size: 18px;
+	padding-bottom: 3%;
+}
+.basicInform {	/* 기본정보 */
+	font-size: 20px;
+	font-weight: bold;
+	padding: 0px 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	border-top: 2px solid black;
+	border-bottom: 1px solid black;
+	background: rgba(255, 255, 255, 0.6);
+}
+.basicContent {	/* 기본정보 내용 */
+	padding: 0px 10px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	border-bottom: 2px solid black;
+	background: rgba(255, 255, 255, 0.6);	
+}
+.popularContent {	/* 상세내용 */
+	padding: 0px 10px;
+	font-size: 20px;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid black;
+	background: rgba(255, 255, 255, 0.6);
+}
+.popularDetail {	/* 상세내용 내용 */
+	padding: 0px 10px;
+	display: flex;
+	font-weight: bold;
+	padding-top: 10px;
+	border-bottom: 1px solid black;
+	background: rgba(255, 255, 255, 0.6);
+}
+.map {	/* 지도 */
+	display: block;
+	padding: 3% 10px;;
+	box-sizing: border-box;
+	border-bottom: 2px solid black;
+	background: rgba(255, 255, 255, 0.6);
+}
+.backSpace {
+	font-size: 20px;
+	font-weight: bold;
+}

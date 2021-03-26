@@ -1,0 +1,129 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+.userContainer {
+	background: rgba(255,255,255,0.7);
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4% 18%;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+table {
+	border-bottom: 2px solid black;
+}
+.title {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 30px;
+	font-weight: bold;
+	padding-bottom: 4%;
+	border-bottom: 2px solid black;
+	width: 500px;
+}
+.loginContent {
+	padding: 3% 0px;
+}
+.label {
+	font-size: 20px;
+	font-weight: bold;
+	padding: 3%;
+	width:130px;
+}
+.textbox {
+	font-size: 18px;
+	outline: none;
+	width: 200px;
+	border:2px solid black;
+	border-radius: 20px;
+	padding: 3px 13px;
+}
+.btn {
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 18px;
+	border-radius: 20px;
+	border: 2px solid black;
+	background: rgba(255,255,255,0.8);
+}
+.loginbottom {
+	font-size: 18px;
+	font-weight: bold;
+	padding: 2% 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.loginbottom-1 {
+	padding: 1% 0px;
+}
+.loginbottom-2 {
+	padding: 1% 0px;
+	padding-bottom: 2%;
+	width: 500px;
+	border-bottom: 2px solid black;
+}
+.textbox-signIn {
+	font-size: 18px;
+	outline: none;
+	width: 300px;
+	border:2px solid black;
+	border-radius: 20px;
+	padding: 3px 13px;
+}
+.btn-signIn {
+	margin-right: auto;
+	margin-left: auto;
+	margin: 0px 2%;
+	margin-bottom: 2%;
+	padding: 1%;
+	width: 70px;
+	font-size: 20px;
+	border-radius: 20px;
+	border: 2px solid black;
+	background: rgba(255,255,255,0.8);
+}
+.pageContent {
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 2% 0px;
+	width: 500px;
+	background: rgba(255,255,255,0.7);
+	border-bottom: 2px solid black;
+}
+.pageSubContent {
+	padding: 1% 0px;
+}
+.userOption {
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 230px;
+	padding-top: 3%;
+	position: center;
+	width: 500px;
+}
+.userOption div {
+	margin-right: auto;
+	margin-left: auto;
+	margin: 5px 2%;
+	margin-bottom: 2%;
+	padding: 1%;
+	width: 100px;
+	font-size: 20px;
+	border-radius: 20px;
+	border: 2px solid black;
+	background: rgba(255,255,255,0.8);
+}
+.searchTitle {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 25px;
+	font-weight: bold;
+	padding-bottom: 4%;
+	border-bottom: 2px solid black;
+	width: 500px;
+}
